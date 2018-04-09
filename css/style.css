@@ -409,6 +409,10 @@ a:hover {
     font-size: 24px;
     font-weight: 300; }
 
+.info .asterisk {
+    width:100%;
+    font-size: 18px;
+    font-weight: 300; }
 
 .info img {
     margin-top: 5%; }
