@@ -97,10 +97,13 @@ a:hover {
     height: 80%; }
 
 .info {
-  text-align: center; }
+  text-align: center; 
+  margin-bottom: 0px !important;
+}
 
 .info-img {
-  width: 50%; }
+  width: 50%;  
+}
 
 .menu-2 {
   position: fixed;
@@ -924,6 +927,15 @@ a:hover {
 
 .space-graphic {
   width: 5%;
+}
+
+.tagline {
+  font-family: Raleway;
+  font-weight:300;
+  text-align:center;
+  width: 50%;
+  margin:auto;
+  padding-bottom:50px;
 }
 
 /*# sourceMappingURL=style.css.map */
