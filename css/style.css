@@ -916,13 +916,17 @@ a:hover {
       font-family: 'Raleway';
     }
 
-    .event-title {
+    .event-date {
       font-weight: 200;
       font-size: 36px;
     }
-    .event-location, .event-time {
+    .event-location, .event-title, .event-time, .dress, .food {
       font-weight: 200;
       font-size: 24px;
+    }
+    .food, .dress {
+      width:50%;
+      margin: auto;
     }
 
 .space-graphic {
@@ -936,6 +940,12 @@ a:hover {
   width: 50%;
   margin:auto;
   padding-bottom:50px;
+}
+
+.coming-soon {
+  font-size: 28px;
+  width:75%;
+  line-height: 1.5;
 }
 
 /*# sourceMappingURL=style.css.map */
