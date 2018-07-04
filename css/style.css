@@ -405,7 +405,9 @@ a:hover {
 }
 
 .info .hotel-link {
-    font-size: 24px; }
+    font-size: 24px;
+    color: blue;
+  }
 
 .info .details {
     width: 100%;
